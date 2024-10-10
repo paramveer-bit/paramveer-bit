@@ -16,6 +16,7 @@
 
 - 🔭 I'm a current studing in JC BUST , YMCA Faridabad branch ENC.
 - 👬 I’m looking for InternShip as SDE.
+- - 📫 Anyone can reach me at "paramveer124501@gmail.com"
 
 Achievement
 - LeetCode Night (1878)
